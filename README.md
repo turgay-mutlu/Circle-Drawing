@@ -2,11 +2,11 @@
 
 Getting all html tag and count, drawing circles on canvas. Canvas radius change by tag count.
 
-##Example
+## Example
 
-*Write a "canvas" tag on html page. 
-*Canvas id must be "canvas".
-*Call method "startDrawing(minimumCircleRadius,circleRadiusMultiplier)"
+* Write a "canvas" tag on html page. 
+* Canvas id must be "canvas".
+* Call method "startDrawing(minimumCircleRadius,circleRadiusMultiplier)"
 
 ```canvas
     <p>Click button and show the magic!</p>
