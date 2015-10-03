@@ -9,7 +9,7 @@ Getting all html tag and count, drawing circles on canvas. Canvas radius change 
 *Call method "startDrawing(minimumCircleRadius,circleRadiusMultiplier)"
 
 ```canvas
-<p>Click button and show the magic!</p>
+    <p>Click button and show the magic!</p>
     <button onclick="startDrawing(5,20)">Click Me</button>
     <hr />
     <canvas id="canvas" width="1000" height="1000 "></canvas>
